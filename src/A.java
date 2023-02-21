@@ -1,4 +1,2 @@
 aaaaa
-<<<<<<< Updated upstream
-
-bbbb
+cccc
